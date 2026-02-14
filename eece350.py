@@ -1,0 +1,1 @@
+print("eece350 is fun and easy!!")
